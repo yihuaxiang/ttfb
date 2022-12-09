@@ -1,0 +1,32 @@
+{
+  "name": "ttfb",
+  "version": "0.0.2",
+  "description": "Measures time-to-first-byte for single or multiple URLs.",
+  "main": "index.js",
+  "bin": "ttfb",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yihuaxiang/ttfb.git"
+  },
+  "keywords": [
+    "Measures",
+    "time-to-first-byte",
+    "for",
+    "single",
+    "or",
+    "multiple",
+    "URLs."
+  ],
+  "author": "fudongdong@fudongdong.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yihuaxiang/ttfb/issues"
+  },
+  "homepage": "https://github.com/yihuaxiang/ttfb#readme"
+}

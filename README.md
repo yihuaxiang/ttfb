@@ -39,10 +39,9 @@ by https://github.com/sandeepraju
 Modified by jay@gooby.org, [@jaygooby](https://twitter.com/jaygooby)
 
 # Installation
-Download the script from the master branch and make it executable:
+Install the script by npm:
 ```
-curl -LJO https://raw.githubusercontent.com/jaygooby/ttfb.sh/master/ttfb
-chmod +x ./ttfb
+npm install -g ttfb
 ```
 
 # Usage
